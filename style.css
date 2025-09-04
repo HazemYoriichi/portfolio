@@ -338,8 +338,8 @@
   position: absolute;
   width: 188px;
   height: 60px;
-  top: 447px;
-  left: 900px;
+  top: 437px;
+  left: 930px;
 }
 
 .portfolio .text-wrapper-10 {
@@ -1634,3 +1634,4 @@ button:focus-visible {
     gap: 10px;
   }
 }
+
