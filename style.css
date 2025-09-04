@@ -889,7 +889,7 @@
   height: 165px;
   top: 96px;
   left: 0;
-  background-image: url(./img/card-2.png);
+  background-image: url(https://raw.githubusercontent.com/HazemYoriichi/portfolio/d2076a6a1ee0c78b3746de11f0c50440643ddc23/img/card-2.png);
   background-size: 100% 100%;
   transition: all 0.3s ease;
   animation: fadeInUp 0.8s ease-out;
